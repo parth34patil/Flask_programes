@@ -1,5 +1,5 @@
 #  Hello guys today i write database program.
-#  in with help of flask and python we can use this program to connect the webpage to any database
+#  and with help of flask and python we can use this program to connect the webpage to any database
 
 from flask import Flask, request, redirect, render_template
 from flask_sqlalchemy import SQLAlchemy
